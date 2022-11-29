@@ -17,3 +17,8 @@
 * Click on the "DOM Graph" button to view the days each property has spent on market.
 * Click on any link on the navbar, for example "Properties".
 
+### See all Listings:
+* Click on the small square images to expand them.
+* Below the images you will find all the data of each property that is dynamically pulled from the database.
+* The sidebar consists of a dummy form to arrange for a showing of a property.
+* Press the back arrow on your browser to go back to the homepage, since this page does not have a navbar.
