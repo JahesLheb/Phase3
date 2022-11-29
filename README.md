@@ -20,7 +20,7 @@
 ### SignUp/Login:
 * Click on the "SignUp" option on the navigation bar to register with the system .
 * After entering all the information click on the "SignUp" button.
-* If the there are no errors the user will be directed to the login page.
+* If there are no errors the user will be directed to the login page.
 * Enter your credentials and click on the "Login" button.
 * The user will be directed to a new page.
 
