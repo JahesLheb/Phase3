@@ -3,7 +3,7 @@
 
 ## Download Instructions:
 * Download and extract MySQL script files and execute them to create the required database and the tables within that database.
-* Next, download and extract the webSite zip folder. And run the file homepage.html using localhost on your browser.
+* Next, download and extract the Phase3 and SQL_Files zip folders. And run the file homepage.html using localhost on your browser.
 
 ## Navigation:
 ### Overall:
