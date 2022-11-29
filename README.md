@@ -17,8 +17,10 @@
 * Click on the "DOM Graph" button to view the days each property has spent on market.
 * Click on any link on the navbar, for example "Properties".
 
-### See all Listings:
-* Click on the small square images to expand them.
-* Below the images you will find all the data of each property that is pulled from the database.
-* The sidebar consists of a dummy form to arrange for a showing of a property.
-* Press the back arrow on your browser to go back to the homepage, since this page does not have a navbar.
+### SignUp/Login:
+* Click on the "SignUp" option on the navigation bar to register with the system .
+* After entering all the information click on the "SignUp" button.
+* If the there are no errors the user will be directed to the login page.
+* Enter your credentials and click on the "Login" button.
+* The user will be directed to a new page.
+
