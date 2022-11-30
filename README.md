@@ -24,6 +24,14 @@
 * Enter your credentials and click on the "Login" button.
 * The user will be directed to a new page.
 
+### Contact Form:
+* Click on the "Agents" option on the navigation bar.
+* The user can view all the realtors and their profile .
+* User can click on the "Contact" button .
+* The user will be redirected to a contact form.
+* After entering all the required information the user can submit the form by clicking the "submit" button.
+
+
 ### Property Search:
 * Click on the "Properties" option on the navigation bar to search for properties.
 * The user can use the drop-down menus to specify search conditions.
