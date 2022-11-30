@@ -43,3 +43,12 @@
 * The sidebar consists of a dummy form to arrange for a showing of a property.
 * Press the back arrow on your browser to go back to the homepage, since this page does not have a navbar.
 
+### Agent Search
+* Click on find agent in the top navigation bar
+* The user can fill out the specified fields to find the agent that meets their needs
+* Search results will appeatat the bottom whenever the search button is clicked
+
+### Dashboard
+* Users will be redirected here once they login
+* Displays the all meeting they are taking place in and its location
+
