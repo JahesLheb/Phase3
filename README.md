@@ -24,6 +24,11 @@
 * Enter your credentials and click on the "Login" button.
 * The user will be directed to a new page.
 
+### Property Search:
+* Click on the "Properties" option on the navigation bar to search for properties.
+* The user can use the drop-down menus to specify search conditions.
+* Search results will appear at the bottom of the page whenever the search conditions are changed.
+
 ### See all Listings:
 * Click on the small square images to expand them.
 * Below the images you will find all the data of each property that is dynamically pulled from the database.
