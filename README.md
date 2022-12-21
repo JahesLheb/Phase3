@@ -30,6 +30,7 @@
 * User can click on the "Contact" button .
 * The user will be redirected to a contact form.
 * After entering all the required information the user can submit the form by clicking the "submit" button.
+* If the user leaves any textbox blank, the page tells them to input all information and they are required to complete it to proceed
 
 
 ### Property Search:
